@@ -1,12 +1,12 @@
-import React from "react"
-import Fetchmon from "./fetchmon"
-function App() {
+import React from "react";
+import FetchMon from "./FetchMon";
 
+function App() {
   return (
     <>
-  <Fetchmon/>
+      <FetchMon />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
